@@ -1,25 +1,20 @@
-{
-  "months": [
-    {
-      "gregorian_start": "2026-01-20",
-      "hijri_day": 1,
-      "hijri_month": 8,
-      "hijri_month_name": "Sha'ban",
-      "hijri_year": 1447
-    },
-    {
-      "gregorian_start": "2026-02-19",
-      "hijri_day": 1,
-      "hijri_month": 9,
-      "hijri_month_name": "Ramadan",
-      "hijri_year": 1447
-    },
-    {
+[
+  {
     "gregorian_start": "2026-03-20",
     "hijri_day": 1,
     "hijri_month": 10,
-    "hijri_month_name": "Shawwal",
     "hijri_year": 1447
-    }
-  ]
-}
+  },
+  {
+    "gregorian_start": "2027-03-10",
+    "hijri_day": 1,
+    "hijri_month": 10,
+    "hijri_year": 1448
+  },
+  {
+    "gregorian_start": "2028-02-28",
+    "hijri_day": 1,
+    "hijri_month": 10,
+    "hijri_year": 1449
+  }
+]
