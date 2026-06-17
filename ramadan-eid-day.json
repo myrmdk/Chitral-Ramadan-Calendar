@@ -1,0 +1,25 @@
+{
+  "months": [
+    {
+      "gregorian_start": "2026-02-18",
+      "hijri_day": 1,
+      "hijri_month": 8,
+      "hijri_month_name": "Dhul Qadda",
+      "hijri_year": 1447
+    },
+    {
+      "gregorian_start": "2026-03-18",
+      "hijri_day": 1,
+      "hijri_month": 10,
+      "hijri_month_name": "Dhul Hija",
+      "hijri_year": 1447
+    },
+    {
+    "gregorian_start": "2026-04-17",
+    "hijri_day": 11,
+    "hijri_month": 1,
+    "hijri_month_name": "Muharram ul Harram",
+    "hijri_year": 1448
+    }
+  ]
+}
