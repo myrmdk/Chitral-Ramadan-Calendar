@@ -4,21 +4,18 @@
       "gregorian_start": "2027-01-18",
       "hijri_day": 1,
       "hijri_month": 8,
-      "hijri_month_name": "Sha'ban",
       "hijri_year": 1448
     },
     {
       "gregorian_start": "2027-02-19",
       "hijri_day": 1,
       "hijri_month": 9,
-      "hijri_month_name": "Ramadan",
       "hijri_year": 1448
     },
     {
     "gregorian_start": "2027-03-20",
     "hijri_day": 1,
     "hijri_month": 10,
-    "hijri_month_name": "Shawwal",
     "hijri_year": 1448
     }
   ]
